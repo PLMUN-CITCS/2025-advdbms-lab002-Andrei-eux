@@ -1,4 +1,4 @@
-﻿-- Creating tblStudents table
+-- Creating tblStudents table
 CREATE TABLE tblStudents (
     student_id INT PRIMARY KEY AUTO_INCREMENT,
     student_name VARCHAR(50),
